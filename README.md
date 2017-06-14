@@ -1,8 +1,10 @@
-## Attributes
+HTML Best Practices
+===================
+This readme outlines what should be written in each HTML elements. 
 
-__Requirement__
-
-### ID
+## GitHub Markup
+----------------
+#### ID
 Use clear and understandable names like "refreshBtn" or "openMenuBtn". 
 
 - Camel Case
