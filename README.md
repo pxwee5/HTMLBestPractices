@@ -6,12 +6,7 @@ This readme outlines what should be written in each HTML elements.
 
 
 ### ID
-Use clear and understandable names like "refreshBtn" or "openMenuBtn". 
-
-- Camel Case
-- id="\<action\>\<element\>" e.g. openMenuBtn
-
-Example
+[Link to Doc](https://developer.mozilla.org/en/docs/Web/HTML/Global_attributes/id)
 ```
 <div id="refreshBtn"></div>
 ```
