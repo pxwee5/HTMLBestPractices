@@ -1,13 +1,12 @@
-### Attributes
-Use clear and understandable names like "refreshBtn" or "openMenuBtn"
+## Attributes
 
 __Requirement__
 
-- Camel Case
-- Btn allows other people to quickly associate an element to this id/class 
-
-#### id
+### ID
 Use clear and understandable names like "refreshBtn" or "openMenuBtn". 
+
+- Camel Case
+- id="\<action\>\<element\>" e.g. openMenuBtn
 
 Example
 ```
